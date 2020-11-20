@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Atributes</title>
+  </head>
+  <body>
+    <h1>Attribute</h1>
+    <img src="496031.jpg" alt="Sorry not found" height="100" width="200">
+    <p>above image is just to show how we bring image to our page through image tag</p>
+
+    <a href="newpage.html">Click Me</a>
+    <p>above is an anchor tag to navigate to a different link</p>
+
+  </body>
+</html>
